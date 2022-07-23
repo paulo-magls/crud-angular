@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "nome": "Rafael",
+      "sobrenome": "Soares",
+      "idade": "25",
+      "profissao": "Programador"
+    },
+    {
+      "id": 2,
+      "nome": "Marcelo",
+      "sobrenome": "Andrade",
+      "idade": "40",
+      "profissao": "Professor"
+    },
+    {
+      "id": 3,
+      "nome": "Larissa",
+      "sobrenome": "Santos",
+      "idade": "36",
+      "profissao": "Médica"
+    },
+    {
+      "id": 4,
+      "nome": "Gustavo",
+      "sobrenome": "Ramos",
+      "idade": "32",
+      "profissao": "Advogado"
+    }
+  ]
+}
